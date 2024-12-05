@@ -1,7 +1,1 @@
-<type>[(scope)]: subject [emoji]
-
-[body]
-
-[breaking changes]
-
-[footer]
+# 銘傳網頁設計課堂實作
